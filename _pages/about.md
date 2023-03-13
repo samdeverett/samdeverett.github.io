@@ -18,9 +18,9 @@ social: true  # includes social icons at the bottom of the page
 
 Welcome to my personal page! 😀
 
-I am a Data Science Engineer (think: Data Scientist meets Machine Learning Engineer) at DraftKings. I work in the Risk & Fraud space, where I spend most of my time developing models for quantifying the skill of a bettor.
+I am a Data Science Engineer (think: Data Scientist meets Machine Learning Engineer) at DraftKings. I work on the Risk & Fraud team, and I spend most of my time developing models for quantifying the skill of a bettor.
 
-I am also a Research Assistant in the [Frankel Lab at MIT](http://fraenkel.mit.edu). The project I'm focused on is fine-tuning a large language model for metabolomics research.
+I am also a Research Assistant in the [Frankel Lab at MIT](http://fraenkel.mit.edu). The project I'm focused on involves fine-tuning a large language model for metabolomics research.
 
 I hope to become more involved in the AI Safety and Alignment space. While I believe technology has the power to radically improve our well-being, I am equally wary of its potential to further the spread of misinformation, ideological polarization, mental health crises from unrealistic expectations, mass surveillance, autonomous weapons, and even catastrophic superintelligence.
 
