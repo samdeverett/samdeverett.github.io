@@ -112,9 +112,9 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: assorted thoughts # blog_name will be displayed in your blog page
+blog_name: update me # blog_name will be displayed in your blog page
 blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: please let me know where i'm wrong
+blog_description: hopefully helpful takes that might need revision \n (pls drop comments)
 permalink: /blog/:title/
 
 # Pagination
