@@ -22,10 +22,6 @@ I'm an AI nerd focused mainly on ensuring that the systems we create have a posi
 
 Currently I'm a participant in [AI Safety Hub's](https://www.aisafetyhub.org/research-programme) summer research program. I am leading a team of four, supervised by [Lewis Hammond](https://www.lewishammond.com), on a project that aims to formalize, detect, and then design a mechanism for preventing collusion between agents in multi-agent reinforcement learning settings.
 
-<!-- Previously I worked as a Data Science Engineer (read: Data Scientist + Machine Learning Engineer) on the Risk & Fraud team at DraftKings. The work was full-stack: formulating business cases, creating data pipelines, developing machine learning models, deploying them to production, setting up monitors, and responding to errors. Two projects I was particularly focused on were quantifying the skill of a bettor and catching identity fraud during a registration attempt.
-
-I've also worked as a Product Analyst for the Data Science team at DraftKings. This invovled mainly designing KPIs to measure against, running experiments to understand the impact of new models, conducting deep dives to understand customers' behavior, building dashboards, and presenting insights to stakeholders from around the business.  -->
-
 <!-- I am also a Research Assistant in the [Frankel Lab at MIT](http://fraenkel.mit.edu). The project I'm focused on involves fine-tuning a large language model for metabolomics research. -->
 
 I hope to become more involved in AI safety and alignment research (see blog post for why).
