@@ -16,14 +16,19 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Welcome to my personal page! 😀
+Hi, I'm Sam 🙂
 
-I am a Data Science Engineer (think: Data Scientist meets Machine Learning Engineer) at DraftKings. I work on the Risk & Fraud team, and I spend most of my time developing models for quantifying the skill of a bettor.
+I'm an AI nerd focused mainly on ensuring that the systems we create have a positive impact on society.
 
-I am also a Research Assistant in the [Frankel Lab at MIT](http://fraenkel.mit.edu). The project I'm focused on involves fine-tuning a large language model for metabolomics research.
+Currently I'm a participant in [AI Safety Hub's](https://www.aisafetyhub.org/research-programme) summer research program. I am leading a team of four, supervised by [Lewis Hammond](https://www.lewishammond.com), on a project that aims to formalize, detect, and then design a mechanism for preventing collusion between agents in multi-agent reinforcement learning settings.
 
-I hope to become more involved in the AI Safety and Alignment space. While I believe technology has the power to radically improve our well-being, I am equally wary of its potential to further the spread of misinformation, ideological polarization, mental health crises from unrealistic expectations, mass surveillance, autonomous weapons, and even catastrophic superintelligence.
+<!-- Previously I worked as a Data Science Engineer (read: Data Scientist + Machine Learning Engineer) on the Risk & Fraud team at DraftKings. The work was full-stack: formulating business cases, creating data pipelines, developing machine learning models, deploying them to production, setting up monitors, and responding to errors. Two projects I was particularly focused on were quantifying the skill of a bettor and catching identity fraud during a registration attempt.
 
-I am actively looking for opportunities to engage in DS/AI/ML work focused on understanding and combating the issues listed above. I'm also seeking hands-on experiences for advancing my software engineering, deep learning, and statistics skill sets. If you know of any such opportunities or have an idea you'd like to collaborate on, I would love to connect. I am also happy to chat about anything else :)
+I've also worked as a Product Analyst for the Data Science team at DraftKings. This invovled mainly designing KPIs to measure against, running experiments to understand the impact of new models, conducting deep dives to understand customers' behavior, building dashboards, and presenting insights to stakeholders from around the business.  -->
 
-Feel free to shoot me an email: samdeverett [at] gmail [dot] com
+<!-- I am also a Research Assistant in the [Frankel Lab at MIT](http://fraenkel.mit.edu). The project I'm focused on involves fine-tuning a large language model for metabolomics research. -->
+
+I hope to become more involved in AI safety and alignment research (see blog post for why).
+If you know of any opportunities or have an idea you'd like to collaborate on, I would love to connect :)
+
+I also have an anonymous [personal feedback form](https://forms.gle/ybak3sXFoCJ4BbqS9). Please share any thoughts you think might help me be better.
