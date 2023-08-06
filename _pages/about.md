@@ -24,7 +24,7 @@ Currently I'm a participant in [AI Safety Hub's](https://www.aisafetyhub.org/res
 
 <!-- I am also a Research Assistant in the [Frankel Lab at MIT](http://fraenkel.mit.edu). The project I'm focused on involves fine-tuning a large language model for metabolomics research. -->
 
-I hope to become more involved in AI safety and alignment research (see blog post for why).
+I hope to become more involved in AI safety and alignment research (see upcoming blog post for why).
 If you know of any opportunities or have an idea you'd like to collaborate on, I would love to connect :)
 
 I also have an anonymous [personal feedback form](https://forms.gle/ybak3sXFoCJ4BbqS9). Please share any thoughts you think might help me be better.
