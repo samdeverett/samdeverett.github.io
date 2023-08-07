@@ -10,7 +10,6 @@ related_posts: false
 toc:
   sidebar: left
 ---
-
 ## Arguments For
 {:data-toc-text="For"}
 
