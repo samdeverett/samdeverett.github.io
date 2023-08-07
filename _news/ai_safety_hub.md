@@ -5,5 +5,5 @@ end_date: ''
 inline: true
 ---
 
-**Researcher @ [AI Safety Hub](https://www.aisafetyhub.org/research-programme)**  
+**Researcher @ [AI Safety Hub](https://www.aisafetyhub.org/research-programme/about)**  
 Formalizing, detecting, and designing a mechanism for preventing collusion between agents in multi-agent reinforcement learning settings.

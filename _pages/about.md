@@ -20,7 +20,7 @@ Hi, I'm Sam 🙂
 
 I'm an AI nerd focused mainly on ensuring that the systems we create have a positive impact on society.
 
-Currently I'm a participant in [AI Safety Hub's](https://www.aisafetyhub.org/research-programme) summer research program. I am leading a team of four, supervised by [Lewis Hammond](https://www.lewishammond.com), on a project that aims to formalize, detect, and then design a mechanism for preventing collusion between agents in multi-agent reinforcement learning settings.
+Currently I'm a participant in [AI Safety Hub's](https://www.aisafetyhub.org/research-programme/about) summer research program. I am leading a team of four, supervised by [Lewis Hammond](https://www.lewishammond.com), on a project that aims to formalize, detect, and then design a mechanism for preventing collusion between agents in multi-agent reinforcement learning settings.
 
 <!-- I am also a Research Assistant in the [Frankel Lab at MIT](http://fraenkel.mit.edu). The project I'm focused on involves fine-tuning a large language model for metabolomics research. -->
 
