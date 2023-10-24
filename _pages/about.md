@@ -16,11 +16,13 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi, I'm Sam 🙂
+I'm interested in AI safety research. In short, this is because I believe economic and military incentives will continue to push us towards a world filled with increasingly advanced AI systems operating and interacting in ways we--as of right now--do not understand.
 
-I'm an AI nerd focused mainly on ensuring that the systems we create have a positive impact on society.
+Within AI safety, I'm most excited about developing [model organisms of misalignment](https://www.alignmentforum.org/posts/ChDH335ckdvpxXaXX/model-organisms-of-misalignment-the-case-for-a-new-pillar-of-1). While I intuitively believe advanced AI systems may pose existential risks, I find the empirical evidence for such claims underwhelming. Safely experimenting with various threat models would shed light on the realism of these risks, allowing us to better prioritize research directions as well as convince skeptics as necessary.
 
-Currently I'm a participant in [AI Safety Hub's](https://www.aisafetyhub.org/research-programme/about) summer research program. I am leading a team of four, supervised by [Lewis Hammond](https://www.lewishammond.com), on a project that aims to formalize, detect, and then design a mechanism for preventing collusion between agents in multi-agent reinforcement learning settings.
+You can find links to my relevant pages above. I'm always happy to connect.
+
+
 
 <!-- I am also a Research Assistant in the [Frankel Lab at MIT](http://fraenkel.mit.edu). The project I'm focused on involves fine-tuning a large language model for metabolomics research. -->
 
