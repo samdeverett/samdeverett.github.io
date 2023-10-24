@@ -9,24 +9,15 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Boston, MA</p>
+    # <p>Boston, MA</p>
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm interested in AI safety research. In short, this is because I believe economic and military incentives will continue to push us towards a world filled with increasingly advanced AI systems operating and interacting in ways we--as of right now--do not understand.
+I'm interested in AI safety research. In short, this is because I believe economic and military incentives will continue to push us towards a world filled with increasingly advanced AI systems operating and interacting in ways we--as of now--do not understand.
 
-Within AI safety, I'm most excited about developing [model organisms of misalignment](https://www.alignmentforum.org/posts/ChDH335ckdvpxXaXX/model-organisms-of-misalignment-the-case-for-a-new-pillar-of-1). While I intuitively believe advanced AI systems may pose existential risks, I find the empirical evidence for such claims underwhelming. Safely experimenting with various threat models would shed light on the realism of these risks, allowing us to better prioritize research directions as well as convince skeptics as necessary.
+Within AI safety, I'm most excited about developing [model organisms of misalignment](https://www.alignmentforum.org/posts/ChDH335ckdvpxXaXX/model-organisms-of-misalignment-the-case-for-a-new-pillar-of-1). While I intuitively believe advanced AI systems may pose existential risks, I find the empirical evidence for such claims underwhelming. Safely experimenting with various threat models would shed light on the realism of these risks, allowing us to better prioritize research directions, convince skeptics, and regulate as necessary.
 
-You can find links to my relevant pages above. I'm always happy to connect.
-
-
-
-<!-- I am also a Research Assistant in the [Frankel Lab at MIT](http://fraenkel.mit.edu). The project I'm focused on involves fine-tuning a large language model for metabolomics research. -->
-
-I hope to continue doing AI safety and alignment research (see upcoming blog post for why).
-If you know of any opportunities or have an idea you'd like to collaborate on, I would love to connect :)
-
-I also have an anonymous [personal feedback form](https://forms.gle/ybak3sXFoCJ4BbqS9). Please share any thoughts you think might help me be better.
+You can find links to my relevant pages in the icons above and below. I'm always happy to connect.
