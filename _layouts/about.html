@@ -54,6 +54,12 @@ layout: default
             {%- include selected_papers.html %}
           {%- endif %}
 
+          <!-- Selected repositories -->
+            {% if page.selected_repositories -%}
+            <h2><a style="color: inherit;">selected repositories</a></h2>
+            {%- include repo.html %}
+          {%- endif %}
+
           <!-- Social -->
           {%- if page.social %}
             <div class="social">
