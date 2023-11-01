@@ -257,8 +257,8 @@ display_tags: ['ai-safety', 'data science', 'stats', 'philosophy'] # this tags w
 
 scholar:
 
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Deverett]
+  first_name: [Sam, S.]
 
   style: apa
   locale: en
