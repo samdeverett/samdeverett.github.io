@@ -7,5 +7,7 @@ inline: true
 
 **Student @ [UC Berkeley](https://guide.berkeley.edu/undergraduate/degree-programs/data-science/#majorrequirementstext)**  
 Bachelor's in Data Science
+
 Regents’ and Chancellor’s Scholar
+
 Certificate in Entrepreneurship & Technology
