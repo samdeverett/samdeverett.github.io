@@ -1,7 +1,7 @@
 ---
 layout: post
 start_date: '2024'
-end_date: '2024'
+end_date: ' '
 inline: true
 ---
 
