@@ -5,8 +5,8 @@
 :root {
   --global-bg-color: #{$grey-color-dark};
   --global-code-bg-color: #{$code-bg-color-dark};
-  --global-text-color: #{$white-color};
-  --global-text-color-light: #{$white-color};
+  --global-text-color: #{$grey-color-light};
+  --global-text-color-light: #{$grey-color-light};
   --global-theme-color: #{$cyan-color};
   --global-hover-color: #{$cyan-color};
   --global-hover-text-color: #{$white-color};
@@ -40,7 +40,7 @@
   }
 
   .repo-img-light {
-    display: block;
+    display: none;
   }
   .repo-img-dark {
     display: block;
