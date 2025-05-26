@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 
 I focus on helping clarify our understanding of the risks and opportunities from AI.
 
-As a Research Engineer at the [UK AI Safety Institute](https://www.aisi.gov.uk), I evaluate the capabilities of advanced AI systems. The goal is to equip policymakers, industry leaders, and the wider research community with an empirical understanding of the risks from AI so that we can develop it responsibly and regulate it appropriately.
+As a Research Engineer at the [UK AI Security Institute](https://www.aisi.gov.uk), I evaluate the capabilities of advanced AI systems. The goal is to equip policymakers, industry leaders, and the wider research community with an empirical understanding of the risks from AI so that we can develop it responsibly and regulate it appropriately.
 
 I am also interested in the use of AI for promoting democracy. I believe language models have potential to scale deliberation and enable more representative, transparent, and accountable processes for collective decision-making. Projects in this vein include [democratizing](https://openai.com/blog/democratic-inputs-to-ai-grant-program-update) the [governance of AI](https://www.anthropic.com/news/collective-constitutional-ai-aligning-a-language-model-with-public-input) as well as [automatically](https://compdemocracy.org) mapping [the opinion landscape](https://ai.objectives.institute/talk-to-the-city) on a given topic.
 
