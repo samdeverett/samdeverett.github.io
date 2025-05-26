@@ -29,6 +29,22 @@
   --global-danger-block-bg: #ffe0e0;
   --global-danger-block-text: #600;
   --global-danger-block-title: #c00;
+
+  .fa-sun {
+    padding-left: 10px;
+    padding-top: 12px;
+    display : block;
+  }
+  .fa-moon {
+    display : none;
+  }
+
+  .repo-img-light {
+    display: block;
+  }
+  .repo-img-dark {
+    display: block;
+  }
   
   // --global-bg-color: #{$white-color};
   // --global-code-bg-color: #{$code-bg-color-light};
@@ -57,21 +73,21 @@
   // --global-danger-block-text: #600;
   // --global-danger-block-title: #c00;
 
-  .fa-sun {
-    display : none;
-  }
-  .fa-moon {
-    padding-left: 10px;
-    padding-top: 12px;
-    display : block;
-  }
+  // .fa-sun {
+  //   display : none;
+  // }
+  // .fa-moon {
+  //   padding-left: 10px;
+  //   padding-top: 12px;
+  //   display : block;
+  // }
 
-  .repo-img-light {
-    display: block;
-  }
-  .repo-img-dark {
-    display: none;
-  }
+  // .repo-img-light {
+  //   display: block;
+  // }
+  // .repo-img-dark {
+  //   display: none;
+  // }
 }
 
 html[data-theme='dark'] {
